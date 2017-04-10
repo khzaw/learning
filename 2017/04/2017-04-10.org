@@ -1,0 +1,8 @@
+* PIL
+- =Image.save()= has an optional parameter called =progressive= to save as a progressive jpeg image.
+* ORG Mode
+- Learned the basics of org mode. Looks much more powerful than markdown, but am I supposed to learn a new set of syntax?
+- Not sure how to preview a document yet. But emacs auto formats things so, it's not so bad.
+  - =M-RET= :: adds a new headline
+  - =::= :: syntax for descriptions
+  - =code= :: Syntax for code 
