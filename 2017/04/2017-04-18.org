@@ -1,0 +1,8 @@
+* React
+** PureComponent
+  - ~PureComponent~ is a like a regular ~Component~ with one difference: it implements ~shouldComponentUpdate~. Does a *shallow* prop and state comparison.
+
+
+* Org-mode
+- Source code can be included within =-#+BEGIN_SRC <insert_lang> #+END_SRC-=
+- Looks like you can even use their native language major-mode within these snippet blocks. Very powerful.
