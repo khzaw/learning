@@ -1,0 +1,17 @@
+* JavaScript
+  - Learned about ~::~ operator which is used for ~this~ binding. Really neat syntatic sugar. Except for the fact that I can't do partial application with it. I should write a blog post about it in order to research more about it and reinforce my learning.
+* React Native
+** ListView
+
+* Redux
+  - Unlike the majority of what I see on the web, ~redux~ feels natural to me. ~redux-thunk~ is conceptually one step on top of redux to control the dispatching of actions.
+  - Sagas, on the other hand, seems more powerful and convoluted. I haven't really grasped it yet.
+  - Convoluted is the wrong word to describe it. More like less "structured" compared to ~redux-thunk~.
+  - Hence, I am going with ~redux-saga~ for all my latest react projects.
+** Redux-saga
+    - ~put~ instructs the middleware to dispatch an action
+    - ~takeEvery~ will listen for dispatch action and call a callback function
+* Org-Mode
+  - In Spacemacs, scratch buffer already starts in org-mode which makes things very convenient. At any point in time, I can just switch to the scratch buffer and jots things down and at the end of the day save it to a file.
+  - =M-left=, =M-right= :: Increase/Decrease the indentation of an item, leaving children alone.
+  - =M-up=, =M-down= :: Move the item up or down.
