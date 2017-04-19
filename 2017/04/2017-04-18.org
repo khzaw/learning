@@ -1,6 +1,7 @@
 * React
 ** PureComponent
   - ~PureComponent~ is a like a regular ~Component~ with one difference: it implements ~shouldComponentUpdate~. Does a *shallow* prop and state comparison.
+  - http://stackoverflow.com/questions/40703675/react-functional-stateless-component-purecomponent-component-what-are-the-dif
 
 
 * Org-mode
