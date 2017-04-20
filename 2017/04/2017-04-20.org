@@ -1,0 +1,2 @@
+* ImmutableJS
+  - Should have just started out with ~Immutable.Map~. ~Object.assign~ shallowly copying each property takes really long for an object with lots of keys.
