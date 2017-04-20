@@ -1,2 +1,7 @@
 * ImmutableJS
   - Should have just started out with ~Immutable.Map~. ~Object.assign~ shallowly copying each property takes really long for an object with lots of keys.
+  
+* Functional CSS
+  - Just read up on functional CSS. Agreed with the motivation behind it, the limitations and honestly this might be the best solution for me right now.
+  - Every other CSS solution in React ecosystem (that I have checked out) doesn't feel right for me.
+  - I have yet to check out CSSModules.
